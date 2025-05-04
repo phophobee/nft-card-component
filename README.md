@@ -38,7 +38,6 @@ Users should be able to:
 
 ✅ HTML Learning Points
 Semantic HTML Elements
-Learn how to use elements like <div>, <img>, <p>, <h1>, and <a> to structure content meaningfully.
 
 Card Layout Structure
 Understand how to build a reusable component (a card) with nested elements like image, title, description, metadata, and author info.
